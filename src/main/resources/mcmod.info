@@ -1,0 +1,16 @@
+[
+{
+  "modid": "oneshot",
+  "name": "Oneshot control",
+  "description": "A mod which allows you to configure max % hp you and entities can loose from attacks, thus a certain amount of attacks is required to kill.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SomeAddons"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
