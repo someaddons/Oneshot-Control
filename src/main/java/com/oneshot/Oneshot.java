@@ -8,7 +8,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import org.apache.logging.log4j.Logger;
 
-@Mod(modid = Oneshot.MODID, name = Oneshot.NAME, version = Oneshot.VERSION, serverSideOnly = true)
+@Mod(modid = Oneshot.MODID, name = Oneshot.NAME, version = Oneshot.VERSION, acceptableRemoteVersions = "*")
 public class Oneshot
 {
     public static final String MODID   = "oneshot";
